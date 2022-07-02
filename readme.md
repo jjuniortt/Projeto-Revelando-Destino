@@ -1,31 +1,13 @@
-# HTML
-- HyperText Markup Language
+# Ola! Criamos o projeto "Revelando seu destino". 🙃
 
-- Hiper Texto?
-- Marcação
-  - tags
-  - atributos
-- Linguagem
-  - maneira de escrever
+Plataforma de Estudos: "https://www.rocketseat.com.br/"<br>
+Maratona Explorer: projeto revelando seu destino.
 
-# CSS
+Nosso principal objetivo foi trabalhar na montagem de um layout simples, porém contendo as principais habilidades para quem está começando a trabalhar na área da programação, montando os primeiros códigos e os primeiros projetos.
 
-- Apresentação visual para o cliente
-- Estilos para o HTML
-- Cascading Style Sheets
-  - Folha de Estilo em Cascata
+Para a conclusão da aratona, criamos o projeto "Revelando seu destino" a partir das três tecnologias que fazem parte da base de qualquer aplicação web - HTML, CSS, JavaScript e GitHub.
 
-# Declaração
-- Seletor
-- Propriedade e Valor
+### Habilidades necessárias para montar a aplicação:
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,git)](https://skillicons.dev)
 
-# Conceitos
-- Cascata
-- Especificidade
-- Box Model
-- Display block vs inline
-
-
-
-### imagem bola de cristal
-https://gist.githubusercontent.com/maykbrito/0acdf4ce919838ffed50915a31fc5b23/raw/6f4dd01ec3116428ec4c99255944cb9ac7927590/cristal-ball.svg
+## Vamos codar! 🚀
