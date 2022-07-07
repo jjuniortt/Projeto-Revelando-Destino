@@ -1,9 +1,9 @@
-# Ola! Criamos o projeto "Revelando seu destino". 🙃
+# Ola! Criado o projeto "Revelando seu destino". 🙃
 
 <strong>Plataforma de Estudos:</strong> "https://www.rocketseat.com.br/"<br>
 <strong>Maratona Explorer:</strong> projeto revelando seu destino.
 
-Nosso principal objetivo foi trabalhar na montagem de um layout simples, porém contendo as principais habilidades para quem está começando a trabalhar na área da programação, montando os primeiros códigos e os primeiros projetos.
+O principal objetivo desse projeto foi trabalhar na montagem de um layout simples, porém contendo as principais habilidades para quem está começando a trabalhar na área da programação, montando os primeiros códigos e os primeiros projetos.
 
 Para a conclusão da aratona, criamos o projeto "Revelando seu destino" a partir das três tecnologias que fazem parte da base de qualquer aplicação web - <strong>HTML</strong>, <strong>CSS</strong>, <strong>JavaScript</strong> e <strong>GitHub</strong>.
 
