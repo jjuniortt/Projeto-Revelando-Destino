@@ -5,7 +5,11 @@
 
 O principal objetivo desse trabalho é montar um projeto simples, porém contendo as principais habilidades para quem está começando a trabalhar na área da programação, montando os primeiros códigos e os primeiros projetos.
 
-Para a conclusão da aratona, criamos o projeto "Revelando seu destino" a partir das três tecnologias que fazem parte da base de qualquer aplicação web - <strong>HTML</strong>, <strong>CSS</strong>, <strong>JavaScript</strong> e <strong>GitHub</strong>.
+Para a conclusão da maratona, criamos o projeto a partir das três tecnologias abaixo:<br/>
+- <strong>HTML</strong><br/>
+- <strong>CSS</strong><br/>
+- <strong>JavaScript</strong><br/>
+- <strong>GitHub</strong>
 
 Veja abaixo as habilidades necessárias para montar essa aplicação e disponibilizar no GitHub: <br/>
 
